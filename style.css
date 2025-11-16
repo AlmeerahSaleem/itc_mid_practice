@@ -1,0 +1,28 @@
+body {
+  background: #fff;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+header {
+  background: blue;
+  align-items: center;
+  align-content: center;
+}
+
+table,
+th,
+td {
+  border: 2px solid black;
+  padding: 8px;
+  border-radius: 5px;
+  background-color: aquamarine;
+  /* comment by ctrl + / */
+}
+
+th {
+  background-color: blueviolet;
+}
+
+mark {
+  background-color: pink;
+}
